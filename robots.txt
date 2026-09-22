@@ -1,0 +1,38 @@
+# Sunshine Desenvolvimento Esportivo - robots.txt
+# Permitir todos os buscadores e modelos de IA
+# Blocos de regras específicas abaixo
+
+# Buscadores tradicionais (Google, Bing, etc)
+User-agent: *
+Allow: /
+Disallow: /dev-tools/
+
+# Google específico
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Modelos de linguagem (Claude, GPT, etc) - PERMITIDOS
+User-agent: claudebot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# Sitemap
+Sitemap: https://sunshine-esportes.vercel.app/sitemap.xml
+
+# Configuração de delay mínimo
+Crawl-delay: 0

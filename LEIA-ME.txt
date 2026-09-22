@@ -1,0 +1,286 @@
+SUNSHINE DESENVOLVIMENTO ESPORTIVO — site institucional
+=========================================================
+
+Atualização mais recente 5 (ajustes na Galeria do Blessed Run)
+-------------------------------------------------------------------
+- A foto da largada (blessedrun-largada.jpg, corredores saindo ao nascer
+  do sol) foi retirada da Galeria do Sunshine Blessed Run, a seu pedido.
+  O arquivo não foi apagado, só deixou de aparecer na página.
+- Duas fotos entraram na Galeria: a foto da medalha oficial
+  (blessedrun-medalha.jpg, que já era usada no card de kit da modalidade
+  3K/Caminhada) e a foto do ponto de hidratação/estande de informações
+  (blessedrun-hidratacao.jpg, que agora também é a foto de capa da
+  página — ela aparece nos dois lugares).
+- A Galeria passou de 8 para 9 fotos.
+
+Atualização mais recente 4 (nova foto de capa do Blessed Run + data do Kids Run em aberto)
+-------------------------------------------------------------------------------------------
+- A foto de capa (hero) do Sunshine Blessed Run 2026 — 1ª Edição foi
+  TROCADA de novo: saiu a foto real antiga (sunshine-blessed-run-capa.webp,
+  que estava temporária) e entrou a foto que vocês enviaram
+  (blessedrun-hidratacao.jpg — cena do ponto de hidratação e do estande de
+  informações, já usada antes só na Galeria). Ela agora é a capa oficial
+  no hero da página do evento, no carrossel da Home e no card de evento da
+  Home. A foto antiga (sunshine-blessed-run-capa.webp) não foi apagada —
+  continua na Galeria da página, então não se perde. Um detalhe: essa
+  nova foto de capa tem "20 DE DEZEMBRO DE 2026" escrito na própria
+  imagem (arte promocional pronta), enquanto o restante do site mostra a
+  data como "a definir" — como é texto dentro da imagem, não dá para
+  editar por aqui; avisem se preferirem trocar por uma versão sem data
+  fixa quando tiverem uma.
+- A data do Sunshine Kids Run em Família também deixou de aparecer como
+  um intervalo específico ("17 ou 18 de outubro de 2026") e passou a
+  mostrar "Data a definir (outubro de 2026)" — no hero da Home, no card de
+  evento da Home, na página do evento (sunshine-kids-run.html) e no
+  calendario.html — no mesmo padrão já usado para o Blessed Run.
+
+Atualização mais recente 3 (ajustes pedidos no Sunshine Blessed Run)
+-------------------------------------------------------------------------
+- A data do Sunshine Blessed Run 2026 — 1ª Edição deixou de aparecer como
+  confirmada ("20 de dezembro de 2026") e agora está em aberto: "Data a
+  definir (dezembro de 2026)" — no hero da página do evento, no
+  index.html, no calendario.html e no selo de status (que era verde
+  "Confirmado" e virou o mesmo estilo âmbar "A confirmar" usado no
+  Sunshine Kids Run em Família). Assim que a data definitiva for
+  confirmada, é só me avisar (ou editar direto o texto) para eu atualizar
+  de novo.
+- A foto de capa (hero) do Sunshine Blessed Run — a imagem da largada ao
+  nascer do sol — foi RETIRADA do topo da página a seu pedido. Como a
+  página precisa de uma imagem de fundo, coloquei de volta
+  temporariamente a foto real antiga (sunshine-blessed-run-capa.webp,
+  a mesma que já estava no site antes das novas artes) até você enviar a
+  imagem de capa definitiva. A imagem da largada não foi apagada — ela
+  passou a fazer parte da Galeria da página, então não se perde.
+- A foto "sunshine-patrocinio-backdrop.jpg" foi retirada da Galeria do
+  Sunshine Blessed Run (estava duplicada — a mesma foto já é usada como
+  capa da página de Contato). Ela continua sendo usada normalmente em
+  contato.html; só saiu de onde estava repetida.
+
+Atualização mais recente (fotos oficiais + renomeações)
+-----------------------------------------------------------
+- O evento antes chamado "Sunshine Kids Run" agora se chama, em todo o
+  site, "Sunshine Kids Run em Família" (tagline "Pequenos passos, grandes
+  conquistas"), conforme as artes oficiais que vocês enviaram. O endereço
+  da página (sunshine-kids-run.html) não mudou, só o nome exibido.
+- O mascote antes chamado "Flash" agora se chama "Velox" em todo o site
+  (a-empresa.html, sunshine-kids-run.html e sunshine-blessed-run.html),
+  também conforme a arte oficial enviada (o nome "Velox" aparece
+  estampado no calção do mascote).
+- Logo oficial: adicionamos em img/ os 6 arquivos de logo que vocês
+  enviaram — logo-gold-full.png, logo-blue-full.png, logo-silver-full.png,
+  logo-black-full.png, logo-white-full.png (todos em PNG com fundo
+  transparente) e logo-black-on-white.jpg (versão fechada, sem
+  transparência). São a marca completa (símbolo + "SUNSHINE" +
+  "DESENVOLVIMENTO ESPORTIVO" + tagline) em várias cores, prontos para uso
+  em redes sociais, materiais impressos, apresentações etc. O ícone
+  pequeno do cabeçalho/rodapé do site (img/icon-gold.png) continua sendo
+  o mesmo — é um recorte só do símbolo, mais adequado para aquele espaço
+  pequeno ao lado do nome "SUNSHINE".
+- Fotos/artes novas do Sunshine Kids Run em Família: incorporamos as 10
+  imagens promocionais que vocês enviaram deste evento —
+    · Capa da página (topo): arco de largada/chegada com o mascote Velox
+    · Seção "Mascote": foto do Velox de corpo inteiro
+    · Seção "Inscrições": foto do kit (camiseta + medalha) no card
+      Individual, e foto das camisetas adulto/infantil nos demais cards
+      (Dupla, Trio, Quarteto)
+    · Galeria: arena família, hidratação, pódio, chegada, estande de
+      ativação e sinalização/recepção do evento, além das fotos reais já
+      existentes
+  IMPORTANTE: essas 10 imagens são artes promocionais/conceito (peças de
+  divulgação), não fotos do evento em si — o Sunshine Kids Run em Família
+  ainda não aconteceu (repare que a arte do arco de chegada mostra o
+  relógio zerado "00:00:00" e "DATA A DEFINIR"). Por honestidade com quem
+  visita o site, deixei uma frase discreta abaixo da galeria avisando que
+  são artes de divulgação. Quando o evento acontecer de verdade, é só
+  substituir essas imagens por fotos reais do dia.
+- Ainda faltam as fotos do Sunshine Blessed Run 2026, que vocês avisaram
+  que vão enviar em seguida — assim que chegarem, aplico o mesmo
+  tratamento (renomear se houver conflito de nome, cortar/otimizar e
+  incorporar na página sunshine-blessed-run.html).
+
+Atualização mais recente 2 (fotos oficiais do Sunshine Blessed Run)
+-----------------------------------------------------------------------
+- As 10 artes promocionais do Sunshine Blessed Run chegaram e foram
+  incorporadas em sunshine-blessed-run.html: capa/hero (foto da largada
+  ao nascer do sol), 4 fotos de kit em "Inscrições" (medalha no card 3K,
+  camiseta oficial nos cards 5K/7K/10K) e 6 fotos na galeria (arco de
+  largada/chegada, pôster "Mais que uma corrida", pódio, Arena Kids,
+  hidratação/recepção, sinalização), além das fotos reais já existentes.
+  Mesmo aviso de honestidade da página do Kids Run: são artes de
+  divulgação, o evento ainda não aconteceu.
+- O nome do evento ganhou o selo "1ª Edição" em todo o site — agora
+  aparece como "Sunshine Blessed Run 2026 — 1ª Edição" (título da página,
+  H1, menus, calendário etc.), a pedido seu, para acompanhar o selo
+  "1st Edition" que aparece nas novas artes oficiais.
+- As novas artes trazem "APOIO: Prefeitura de Sorocaba" com o brasão
+  oficial do município em 5 das 10 imagens (pôster, sinalização, arco de
+  largada/chegada, pódio e foto da largada). Você confirmou que essa
+  parceria institucional é real, então mantive essas imagens como estão
+  e acrescentei uma linha "Apoio: Prefeitura de Sorocaba" no hero e uma
+  pequena seção "Apoio institucional" logo depois do mapa/local, citando
+  a Prefeitura. IMPORTANTE: se essa parceria mudar de status no futuro
+  (por exemplo, deixar de ser confirmada), é só avisar para eu remover
+  essas 5 imagens e a menção de apoio institucional do site.
+- Um logo específico do evento (transparente, "Sunshine Blessed Run —
+  1st Edition") também foi salvo em img/logo-blessedrun-1stedition.png —
+  disponível como ativo de marca extra, não usado em nenhum lugar do
+  site ainda (fica pronto pra uso em redes sociais, materiais impressos etc.).
+
+O que foi atualizado nesta versão
+-----------------------------------
+- Botão flutuante do WhatsApp em todas as páginas, apontando para o
+  Diretor Comercial: (15) 99162-2682.
+- E-mail comercial: sunshineeventos26@gmail.com
+- Instagram real: @sunshine_run (https://www.instagram.com/sunshine_run/)
+- Facebook, YouTube, LinkedIn e TikTok foram REMOVIDOS do site (estavam
+  como placeholder "#"). Assim que a Sunshine tiver essas contas, é só
+  me avisar (ou pedir a um desenvolvedor) para adicionar os ícones de volta.
+- Dados reais da empresa (razão social, CNPJ, endereço, fundação, direção
+  executiva, missão, visão, propósito, valores e serviços) — extraídos do
+  projeto "sunshinesitefinal.zip" que você enviou.
+- Os 6 eventos fictícios foram substituídos pelos 2 eventos reais de 2026:
+  Sunshine Kids Run e Sunshine Blessed Run 2026 — ambos em Sorocaba/SP.
+- Fotos reais dos eventos e do mascote Flash substituíram os banners
+  ilustrativos gerados anteriormente.
+- Seção "Cotas de patrocínio" (Master / Premium / Apoiador) no lugar dos
+  logos fictícios de parceiros — os valores estão como "Sob consulta",
+  conforme pedido.
+- Nova página dedicada sunshine-kids-run.html: uma landing page só do
+  Sunshine Kids Run, no mesmo formato de página de evento usada pela
+  Yescom (menu de âncoras, seção do evento, mascote, atrações, mapa,
+  galeria, inscrições e patrocínio), mas com conteúdo 100% real da
+  Sunshine — nada de modalidade, preço ou horário inventado. Os links
+  "Ver detalhes"/"Detalhes" do Kids Run no site inteiro agora apontam
+  para essa página.
+- Nova página dedicada sunshine-blessed-run.html: landing page do
+  Sunshine Blessed Run 2026, inspirada na página do UOL Run 30 Anos
+  (Yescom) que você mandou — com seletor de distância em abas (3K
+  Caminhada, 5K, 7K e 10K Corrida), cartão de kit por distância, tabela
+  de medidas (modal), formulário de solicitação de inscrição e um bloco
+  "Como finalizar sua inscrição" com os dados de pagamento (PIX/banco).
+  IMPORTANTE — leia a seção "Botão Inscreva-se e dados de pagamento"
+  abaixo antes de publicar.
+- sunshine-kids-run.html ganhou o mesmo padrão de exposição de kit da
+  página da Corrida Cartoon (Yescom) que você mandou como referência:
+  abas por categoria de participação (Individual, Dupla Padrão/Premium,
+  Trio Padrão/Premium, Quarteto Padrão/Premium), com espaço reservado
+  para foto do kit, lista de itens do kit e preço. A pedido seu, os
+  VALORES E ITENS DO KIT foram mantidos iguais aos do site de
+  referência (renomeei só as categorias "Network"/"Cartoon" da Yescom
+  para "Padrão"/"Premium", já que "Cartoon Network" é marca de terceiro
+  e não faz sentido aparecer no site da Sunshine). Isso é conteúdo
+  emprestado da referência, não dado oficial da Sunshine — assim que
+  vocês definirem os valores reais do Kids Run, é só me passar (ou
+  editar direto no HTML) que eu atualizo.
+
+Sobre as fotos que você enviou
+---------------------------------
+Das 7 fotos enviadas, USEI 4 no site (fotos reais dos eventos e do
+mascote Flash, sem nenhum personagem de terceiros):
+  - Foto da chegada com pula-saco (Sunshine Kids Run)
+  - Foto do arco de largada com o mascote (Sunshine Kids Run)
+  - Foto do pórtico de largada (Sunshine Blessed Run 2026)
+  - Foto do mascote cruzando a faixa de chegada à noite
+  - Foto do backdrop/photo-op com famílias (usada na página de Contato)
+
+NÃO usei 3 fotos: a do mascote jogando futebol e as duas de kits/camisetas
+("SUN KIDS EM FAMÍLIA"), porque elas trazem personagens da Disney/Pixar
+(Woody e Buzz Lightyear, de Toy Story). Publicar essas imagens no site
+oficial da empresa é um risco real de violação de direitos autorais/marca,
+a menos que a Sunshine tenha uma licença comercial confirmada para usar
+esses personagens. Recomendo não publicar essas 3 imagens até isso ser
+esclarecido — se quiser, posso ajudar a pensar num kit/mascote 100%
+autoral no lugar.
+
+O que ainda está pendente (vindo do seu próprio arquivo de dados)
+---------------------------------------------------------------------
+Sunshine Kids Run:
+  - Data definitiva (17 ou 18 de outubro) — hoje o site mostra as duas
+    datas com aviso "a confirmar"
+  - Modalidades, distâncias, faixas etárias e categorias
+  - Valores e lotes de inscrição, kit e medalha
+  - Link de inscrição e regulamento em PDF
+  - Estrutura de segurança, patrocinadores, responsável operacional
+
+Sunshine Blessed Run 2026:
+  - Público-alvo, conceito oficial e significado do nome
+  - Modalidades, distâncias, faixas etárias e categorias
+  - Valores e lotes de inscrição, kit e medalha
+  - Link de inscrição e regulamento em PDF
+  - Ações sociais/beneficentes, parceiros, responsável operacional
+
+Assim que esses dados forem confirmados, é só me passar (ou editar
+diretamente calendario.html e index.html) que eu atualizo o conteúdo.
+
+Eventos anteriores (Aquatlo no Sesc, Desafio MTB, Circuito Tem Running,
+Megapasseio de Natal, Corrida Pink do Bem, Corrida APAE Ofebas Run):
+NÃO foram incluídos no site ainda, porque seu próprio arquivo de dados
+marca esses eventos como "não autorizados para divulgação até
+confirmação" (sem fotos, números ou resultados liberados). Quando tiver
+essa autorização, aviso para eu montar uma seção "Eventos Realizados".
+
+Botão "Inscreva-se" e dados de pagamento (sunshine-blessed-run.html e
+sunshine-kids-run.html)
+---------------------------------------------------------------------
+Nenhuma das duas páginas de evento tem ainda um sistema de pagamento
+on-line integrado (isso exigiria um back-end e um convênio com um meio
+de pagamento — PagSeguro, Mercado Pago, Asaas, uma plataforma de
+inscrições esportivas etc.). Por isso montei o mesmo fluxo manual nas
+duas páginas, comum em eventos menores:
+
+  1. A pessoa escolhe a distância/categoria nas abas e clica em
+     "Inscreva-se", que rola até o formulário de solicitação de
+     inscrição já com a opção escolhida selecionada.
+  2. Ela preenche nome, WhatsApp, e-mail, distância/categoria e
+     tamanho de camiseta (formulário de demonstração — veja abaixo).
+  3. Ao lado do formulário, o cartão preto "Como finalizar sua
+     inscrição" mostra os dados de pagamento (chave PIX, titular,
+     banco, agência/conta) e pede o comprovante pelo WhatsApp.
+
+Em cada uma das duas páginas, procure pelo comentário
+"<!-- SUNSHINE: substitua os campos "fill-me" -->" — logo abaixo estão
+os 4 campos com [inserir ...] que você (ou um desenvolvedor) precisa
+trocar pelos dados reais da conta/PIX antes de publicar o site (são
+dados de pagamento independentes em cada página, então edite as duas).
+Também dá pra editar direto pelo navegador de arquivos do seu servidor,
+sem precisar mexer em mais nada.
+
+Sobre preço e kit: em sunshine-blessed-run.html o preço e os itens do
+kit de cada distância (3K, 5K, 7K, 10K) são exemplo/placeholder —
+procure por "Exemplo — ajuste o valor" e pelas listas com "(exemplo)".
+Já em sunshine-kids-run.html, a pedido seu, os valores e itens do kit
+foram mantidos iguais aos da página de referência (Corrida Cartoon) —
+não são placeholders, mas também não são dados oficiais do Kids Run;
+atualize quando a Sunshine definir os valores reais dessa modalidade.
+
+O que continua sendo placeholder / precisa de atenção
+---------------------------------------------------------
+- Formulário de contato (contato.html) e o novo formulário de
+  solicitação de inscrição (sunshine-blessed-run.html): ambos ainda são
+  só demonstração (não enviam e-mail de verdade). Conecte a um serviço
+  como Formspree, EmailJS, Google Forms ou a um back-end próprio.
+- Nenhum ID de Google Analytics, Google Tag Manager ou Meta Pixel foi
+  incluído propositalmente — cole os snippets oficiais no <head> de cada
+  página quando tiver essas contas.
+- Texto da Política de Privacidade continua sendo um modelo genérico —
+  peça revisão jurídica antes de publicar (LGPD).
+- Telefone secundário (15) 99107-6330 (que aparece no seu arquivo de
+  dados como "phone" geral) não foi incluído no site — só usei o número
+  confirmado por você para o botão do WhatsApp. Avise se quiser incluir
+  esse segundo número em algum lugar.
+
+Estrutura de arquivos
+------------------------
+index.html, a-empresa.html, calendario.html, contato.html,
+sunshine-kids-run.html, sunshine-blessed-run.html,
+politica-de-privacidade.html, css/style.css, js/main.js, img/ (logo +
+fotos reais dos eventos e do mascote), dev-tools/gen_assets.py (script
+que gerava os banners ilustrativos antigos — não é mais usado, mas fica
+disponível caso precise gerar algo parecido no futuro).
+
+Como publicar
+--------------
+São arquivos estáticos comuns (HTML/CSS/JS): basta enviar toda a pasta
+para qualquer hospedagem (Hostgator, Hostinger, GitHub Pages, Netlify,
+Vercel etc.), mantendo a mesma estrutura de pastas. Não precisa de banco
+de dados nem PHP.
